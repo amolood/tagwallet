@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Splash mark: white card outline + waves on transparent, for indigo splash bg. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <g transform="translate(512,512)">
+    <g transform="rotate(-18)">
+      <rect x="-150" y="-200" width="300" height="400" rx="42" ry="42"
+            fill="none" stroke="#FFFFFF" stroke-width="20"/>
+      <rect x="-108" y="-150" width="86" height="66" rx="14" fill="#FFD54F"/>
+      <g fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round">
+        <path d="M 40 -70 A 70 70 0 0 1 40 70"/>
+        <path d="M 78 -110 A 120 120 0 0 1 78 110"/>
+        <path d="M 116 -150 A 170 170 0 0 1 116 150"/>
+      </g>
+    </g>
+  </g>
+</svg>
